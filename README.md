@@ -1,4 +1,4 @@
-# Python-Automation
+# Infrastructure and Inventory Automation with Python and GCP
 Automate updating catalog
 
 <h2> Project Introduction</h2>
